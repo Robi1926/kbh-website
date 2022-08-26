@@ -6,4 +6,8 @@
   body {
     font-family: "Inter", sans-serif;
   }
+  h1,
+  h2 {
+    font-family: "Turret Road", cursive;
+  }
 }
